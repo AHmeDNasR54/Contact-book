@@ -1,0 +1,90 @@
+# depslib dependency file v1.0
+1678813401 source:d:\oop_college\projects\contact_book_application\src\date.cpp
+	"Date.h"
+	<iostream>
+	<string>
+
+1678303115 d:\oop_college\projects\contact_book_application\include\date.h
+	<iostream>
+	<string>
+
+1681728383 source:d:\oop_college\projects\contact_book_application\main.cpp
+	<iostream>
+	<string>
+	"ContactBook.h"
+	"Contact.h"
+	"PhoneNumper.h"
+
+1681729376 source:d:\oop_college\projects\contact_book_application\src\phonenumper.cpp
+	"PhoneNumper.h"
+	<iostream>
+	<string>
+
+1681729376 d:\oop_college\projects\contact_book_application\include\phonenumper.h
+	<iostream>
+	<string>
+
+1681729376 source:d:\oop_college\projects\contact_book_application\src\contact.cpp
+	"Contact.h"
+	<iostream>
+	<string>
+	"PhoneNumper.h"
+
+1681729376 d:\oop_college\projects\contact_book_application\include\contact.h
+	<iostream>
+	<string>
+	"PhoneNumper.h"
+
+1681729376 source:d:\oop_college\projects\contact_book_application\src\contactbook.cpp
+	"ContactBook.h"
+	"Contact.h"
+	<iostream>
+	<string>
+	"PhoneNumper.h"
+
+1681729376 d:\oop_college\projects\contact_book_application\include\contactbook.h
+	<iostream>
+	<string>
+	"PhoneNumper.h"
+	"contact.h"
+
+1681728383 source:d:\oop\oop_college\projects\contact_book_application\main.cpp
+	<iostream>
+	<string>
+	"ContactBook.h"
+	"Contact.h"
+	"PhoneNumper.h"
+
+1681729376 d:\oop\oop_college\projects\contact_book_application\include\contactbook.h
+	<iostream>
+	<string>
+	"PhoneNumper.h"
+	"contact.h"
+
+1696542219 d:\oop\oop_college\projects\contact_book_application\include\phonenumper.h
+	<iostream>
+	<string>
+
+1681729376 d:\oop\oop_college\projects\contact_book_application\include\contact.h
+	<iostream>
+	<string>
+	"PhoneNumper.h"
+
+1696542219 source:d:\oop\oop_college\projects\contact_book_application\src\contact.cpp
+	"Contact.h"
+	<iostream>
+	<string>
+	"PhoneNumper.h"
+
+1681729376 source:d:\oop\oop_college\projects\contact_book_application\src\contactbook.cpp
+	"ContactBook.h"
+	"Contact.h"
+	<iostream>
+	<string>
+	"PhoneNumper.h"
+
+1696542219 source:d:\oop\oop_college\projects\contact_book_application\src\phonenumper.cpp
+	"PhoneNumper.h"
+	<iostream>
+	<string>
+
